@@ -12,4 +12,4 @@ That describe the data up to some time. We now update those statistics at hand. 
 
 #runner.py
 
-This file can be used to iterate the semi-supervised model n times. Often we will need to create
+This file can be used to iterate the semi-supervised model n times. Often we will need to create statistically significant samples for us over training and test data to get some sense of how a method performs. This code will iterate through the semi supervised module n times and output some result. 
